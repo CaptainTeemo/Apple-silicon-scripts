@@ -44,7 +44,7 @@ make
 make install
 ```
 
-merge to universal
+merge
 
 ```
 lipo /tmp/openssl-arm/lib/libssl.a /tmp/openssl-x86/lib/libssl.a -create -output libopenssl/lib/libssl.a
