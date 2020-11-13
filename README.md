@@ -10,6 +10,10 @@ Scripts for building third-party libraries for Apple silicon.
 
 #### build your own:
 
+`git clone git@github.com:openssl/openssl.git`
+
+`cd openssl`
+
 `vim Configurations/10-main.conf`
 
 add following section:
