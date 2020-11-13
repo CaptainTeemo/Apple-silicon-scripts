@@ -56,3 +56,9 @@ copy headers
 ```
 cp /tmp/openssl-arm/include/openssl/* include/openssl/
 ```
+
+to verify whether your binary is universal
+```
+%lipo -archs libopenssl/lib/libssl.a
+x86_64 arm64
+```
