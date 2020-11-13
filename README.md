@@ -6,6 +6,7 @@ Scripts for building third-party libraries for Apple silicon.
 
 #### download:
 
+[openssl-1.1.1-mac-silicon-universal.zip](https://github.com/CaptainTeemo/Apple-silicon-scripts/raw/main/openssl-1.1.1-mac-silicon-universal.zip)
 
 #### build your own:
 
