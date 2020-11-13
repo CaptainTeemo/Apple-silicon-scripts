@@ -1,5 +1,5 @@
 # Apple-silicon-scripts
-Scripts for building thirty-party libraries for Apple silicon.
+Scripts for building third-party libraries for Apple silicon.
 
 
 ## OpenSSL
